@@ -1,0 +1,22 @@
+{
+  "name": "react_project_by_vikas_raveen",
+  "version": "1.0.0",
+  "description": "First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikas283/React_Project_by_vikas_raveen.git"
+  },
+  "author": "Vikas_Raveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikas283/React_Project_by_vikas_raveen/issues"
+  },
+  "homepage": "https://github.com/vikas283/React_Project_by_vikas_raveen#readme",
+  "dependencies": {
+    "node": "^13.12.0"
+  }
+}
